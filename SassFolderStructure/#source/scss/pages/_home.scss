@@ -1,0 +1,23 @@
+// Home Page
+.home-page{
+    background-color: $background-orange;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    @include for-phone{
+        background-color: $bg-dark-orange;
+    }
+
+    @include for-tablet{
+        background-color: $bg-green;
+    }
+
+    @include for-desktop{
+        background-color: $bg-dark-orange;
+    }
+
+
+}
