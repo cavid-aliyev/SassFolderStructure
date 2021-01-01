@@ -1,4 +1,4 @@
-# Sass FOlder Structure
+# Sass Folder Structure
 
 ## General info
 Properly organizing and architecting the Sass project is a crucial starting point for having a maintainable, scalable, and well-organized project.
