@@ -3,7 +3,11 @@
 ## General info
 Properly organizing and architecting the Sass project is a crucial starting point for having a maintainable, scalable, and well-organized project.
 
-## Folder Structure Tree
+<br>
+
+### Folder Structure Shema :
+
+<br>
 
 ```
 #source\scss
